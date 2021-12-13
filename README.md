@@ -3,7 +3,12 @@
 
 - 🌱 I’m currently learning .Net,Nodejs,JavaScript,Python(Django)
 
-- 📫 How to reach me : https://www.linkedin.com/in/atakan-donmez
+- ⚡ Fun fact: I love to swim, Formula, play football, and table tennis.
+
+
+
+
+
 
 
 
@@ -44,4 +49,20 @@
 [gmail]: mailto:atakandmz@gmail.com
 <br />
 
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
